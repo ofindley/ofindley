@@ -1,11 +1,7 @@
 ### 📜 About Me
 🚀 Full Stack Developer | SDET | DevOps Engineer
 
-💡 I enjoy working on **innovative projects** that blend creativity and technology to solve real-world problems.
-
-🎮 Game Development & Gaming: I enjoy game development and video games.
-
-🚗 Car Enthusiast: Drag racer
+💡 I enjoy working on **innovative projects** that blend creativity and technology to solve real-world problems. 🎮 Game Development & Gaming: I enjoy game development and video games. 🚗 Car Enthusiast: Drag racer
 
 ### 🌍 Connect with Me
 <p align="left">
