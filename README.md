@@ -16,6 +16,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ofindley&show_icons=true&theme=radical" alt="Orane's GitHub stats">
 </p>
 
+### 📊 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofindley&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
 ### 🏆 GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ofindley&theme=radical" alt="GitHub Trophies">
