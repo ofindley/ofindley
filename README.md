@@ -13,17 +13,17 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-stats-steel-eight.vercel.app/api?username=ofindley&show_icons=true&theme=radical&cache_seconds=3600" alt="Orane's GitHub stats">
+  <img src="https://github-stats-steel-eight.vercel.app/api?username=ofindley&show_icons=true&theme=radical" alt="Orane's GitHub stats">
 </p>
 
 ### 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-stats-steel-eight.vercel.app/api/top-langs/?username=ofindley&layout=compact&theme=radical&cache_seconds=3600" alt="Most Used Languages">
+  <img src="https://github-stats-steel-eight.vercel.app/api/top-langs/?username=ofindley&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ofindley&theme=radical&cache_seconds=3600" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ofindley&theme=radical" alt="GitHub Trophies">
 </p>
 
 ### 🤝 Let's Collaborate
